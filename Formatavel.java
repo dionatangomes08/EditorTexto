@@ -1,5 +1,10 @@
-abstract class Formatavel extends Editavel{
+class Formatavel extends Editavel{
 
+	public void insereElemento(){
+	}
+	public void removeElemento(){
+	}	
+	
 	public void negrito(){
 	//insere negrito
 	}

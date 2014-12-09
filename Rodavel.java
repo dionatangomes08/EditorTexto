@@ -1,4 +1,9 @@
-abstract class Rodavel extends Editavel{
+class Rodavel extends Editavel{
+	
+	public void insereElemento(){
+	}
+	public void removeElemento(){
+	}	
 	
 	public void roda(int ang){
 	
